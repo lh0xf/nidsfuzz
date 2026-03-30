@@ -120,8 +120,8 @@ If you use NIDSFuzz in your research, please cite our paper:
 
 ```bibtex
 @inproceedings{nidsfuzz,
-  title     = {NIDSFuzz: Fuzzing Rule-Driven Network Intrusion Detection Systems},
-  booktitle = {USENIX NSDI},
+  title     = {From Intention to Practice: Towards Systematic Validation of NIDS Rule Enforcement},
+  booktitle = {Proceeding of the 23rd USENIX Symposium on Networked Systems Design and Implementation},
   year      = {2026}
 }
 ```
