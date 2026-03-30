@@ -38,11 +38,15 @@ NIDSFuzz provides an automated environment for discovering rule enforcement inco
 
 ## Installation
 
+> **Note:** This section is for **local development and debugging only**. If you just want to quickly test NIDS with NIDSFuzz, you can skip this section and go directly to [Usage](#usage) — everything runs via Docker Compose with no local installation required.
+
 ```bash
 uv sync
 ```
 
 ## Usage
+
+> **Quick Start:** No prior installation is needed — you can launch NIDSFuzz directly using the provided `docker-compose` configuration. Just make sure Docker and Docker Compose are installed.
 
 ### 1. Prepare Rules
 
